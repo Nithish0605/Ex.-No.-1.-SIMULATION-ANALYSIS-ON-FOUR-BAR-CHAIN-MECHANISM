@@ -52,9 +52,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
-## Output:![WhatsApp Image 2024-12-02 at 21 57 56_6cbab036](https://github.com/user-attachments/assets/6460622b-651e-47d8-ba7f-834f86d8ce9a)
-
-![WhatsApp Image 2024-12-02 at 21 57 57_a40ac400](https://github.com/user-attachments/assets/7502d542-bca9-4dfa-9979-c2b72370b703)
+## Output:
+![1](https://github.com/user-attachments/assets/b1dc5a04-ac59-409d-8629-cff47aa76c96)
+![2](https://github.com/user-attachments/assets/c245e748-2f35-4fce-9f16-0b07f4e74f82)
 
 
 ### Name:NITHISH S
